@@ -1,0 +1,26 @@
+{
+  "name": "hubot-patronus",
+  "version": "0.0.1",
+  "description": "cast Expecto Patronum",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://fake.com"
+  },
+  "dependencies": {
+    "coffee-script": "~1.8"
+  },
+  "keywords": [
+    "harry",
+    "potter",
+    "expecto",
+    "patronum",
+    "patronus",
+    "charm"
+  ],
+  "author": "Jinsu Oh",
+  "license": "MIT"
+}
