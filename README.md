@@ -7,4 +7,11 @@ or spirit guardian. It is the primary protection against Dementors and Lethifold
 ## Incantation
 - Expecto Patronum
 
+## Installation
+Run `npm install --save hubot-patronus`
+
+Add **hubot-patronus** to your `external-scripts.json`:
+```json
+[“hubot-patronus”]
+```
 
